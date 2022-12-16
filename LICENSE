@@ -1,21 +1,59 @@
-MIT License
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
-Copyright (c) 2021 MoomooDude
+Files:     textures/speed_boots_boots_speed.png
+           textures/speed_boots_boots_speed_preview.png
+           textures/speed_boots_inv.png
+           textures/speed_boots_silk.png
+Copyright: 2021 ClothierEdward
+License:   MIT
+Comment:   Textures from the original  mod
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Files:     textures/bouncy_boots_2_inv.png
+           textures/bouncy_boots_inv.png
+           textures/rocket_boots_inv.png
+           textures/slow_boots_inv.png
+           textures/speed_boots_boots_bouncy.png
+           textures/speed_boots_boots_bouncy_2.png
+           textures/speed_boots_boots_bouncy_2_preview.png
+           textures/speed_boots_boots_bouncy_preview.png
+           textures/speed_boots_boots_rocket.png
+           textures/speed_boots_boots_rocket_preview.png
+           textures/speed_boots_boots_slow.png
+           textures/speed_boots_boots_slow_preview.png
+           textures/speed_boots_boots_ultra.png
+           textures/speed_boots_boots_ultra_preview.png
+           textures/speed_boots_rocket_booster.png
+           textures/speed_boots_rocket_hammer.png
+           textures/speed_boots_spring.png
+           textures/ultra_boots_inv.png
+Copyright: 2021 MoomooDude
+License:   MIT
+Comment:   Textures from MoomooDudes MoreBoots mod
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Files:     *
+Copyright: 2021 MoomooDude,
+           2021 ClothierEdward
+License:   MIT
+Comment:   Source code modified by both
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+License: MIT
+  The MIT License (MIT)
+  
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+  
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+  THE SOFTWARE.
